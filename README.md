@@ -1,8 +1,9 @@
 # BitQR-Code
 Through image generate QR-Code .
 
---------
+一个优雅的 QR 二维码生成器
 
+--------
 
 ## 样例
 
