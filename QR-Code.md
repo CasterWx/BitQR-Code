@@ -242,12 +242,12 @@ for (int i = 0; i < gd.getFrameCount(); i++) {
 
 原图 | GIF
 ------------ | -------------
-![1.jpg](img/gif1.gif) | ![P2](img/gif1.gif) 
+![1.jpg](img/gif1.gif) | ![P2](img/gif1-get.gif) 
 
 原图 | GIF
 ------------ | -------------
-![1.jpg](img/gif2.gif) | ![P2](img/gif2.gif)
+![1.jpg](img/gif2.gif) | ![P2](img/gif2-get.gif)
 
 原图 | GIF
 ------------ | -------------
-![1.jpg](img/gif3.gif) | ![P2](img/gif3.gif) 
+![1.jpg](img/gif3.gif) | ![P2](img/gif3-get.gif) 
