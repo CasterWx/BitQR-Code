@@ -30,7 +30,7 @@ GIF1 | GIF2 | GIF3 |
 ![marry.gif](img/marry.gif)  | ![P1](img/P3.png)  | ![P2](img/P6.png)  | ![P2](img/P11.png)
 
 
- 第十三帧 | 第十六帧 | 第二十帧 | 生成GIF |
+第十三帧 | 第十六帧 | 第二十帧 | 生成GIF |
 ------------- | ------------- | ------------- | ------------- 
 ![P0](img/P12.png)  | ![P1](img/P15.png)  | ![P2](img/P19.png)  | ![P1](img/getgif.gif) 
 
