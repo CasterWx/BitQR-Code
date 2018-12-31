@@ -258,9 +258,11 @@ for (int i = 0; i < gd.getFrameCount(); i++) {
 ------------ | ------------- |
 <img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif3.gif"/> | <img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif3-get.gif"/> |
 
+## 赞助
 
-| 赞助 |
-| ------------ | 
-| <img width="250" src="img/pay.png"/> |
-| BitQR-Code是一个的开源项目，使用完全免费。 
-但是随着项目规模的增长，也需要有相应的资金支持才能持续项目的维护与开发。你可以通过下列的方法来赞助 BitQR-Code 的开发。你的名字会出现在 BitQR-Code 的 GitHub 仓库和博客文档中。| 
+| 支付宝 | 微信 |
+| ------------ | ------------ | 
+| <img width="250" src="img/pay.png"/> |<img width="250" src="img/wx.png"/> |
+
+BitQR-Code是一个的开源项目，使用完全免费。 
+但是随着项目规模的增长，也需要有相应的资金支持才能持续项目的维护与开发。你可以通过下列的方法来赞助 BitQR-Code 的开发。你的名字会出现在 BitQR-Code 的 GitHub 仓库和博客文档中。
