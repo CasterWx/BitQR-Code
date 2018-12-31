@@ -1,25 +1,33 @@
 # BitQR-Code
+
 Through image generate QR-Code .
 
 一个优雅的 QR 二维码生成器
+
+Github项目地址 : [https://github.com/CasterWx/BitQR-Code](https://github.com/CasterWx/BitQR-Code)
 
 --------
 
 ## 样例
 
 > 拿起你的手机扫描下面的二维码试试吧！
+ 
+原图 | Version-3 | 
+------------ | ------------- |
+<img width="300" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/1.jpg"/>  | <img width="300" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/out.png"/> |
 
+Version-5 | 直接拼凑GIF | 分解生成 |
+------------ | ------------- | ------------ | 
+<img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/out1.png"/> | <img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/1.gif"/> | <img width="200" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/getgif.gif"/> |
 
-原图 | Version-3 | Version-5 | 直接拼凑GIF | 分解生成GIF
------------- | ------------- | ------------- | ------------- | -------------
-![1.jpg](img/1.jpg)  | ![2.jpg](img/out.png) |  ![3.jpg](img/out1.png) | ![1.gif](img/1.gif) | ![P2](img/getgif.gif) 
 
 原图1 | 原图2 | 原图3 |
 ------------ | ------------- | -------------
-![1.jpg](img/gif1.gif) | ![P2](img/gif2.gif) | ![P2](img/gif3.gif) 
+<img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif1.gif"/> |<img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif2.gif"/> |<img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif3.gif"/> |
+
 GIF1 | GIF2 | GIF3 |
 ------------ | ------------- | -------------
-![1.jpg](img/gif1-get.gif) | ![P2](img/gif2-get.gif) | ![P2](img/gif3-get.gif) 
+<img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif1-get.gif"/> | <img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif2-get.gif"/> | <img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif3-get.gif"/>
 
 ------
 
@@ -27,12 +35,12 @@ GIF1 | GIF2 | GIF3 |
 
 原GIF | 第四帧 | 第七帧 | 第十帧 |
 ------------- | ------------- | ------------- | -------------
-![marry.gif](img/marry.gif)  | ![P1](img/P3.png)  | ![P2](img/P6.png)  | ![P2](img/P11.png)
+<img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/marry.gif"/> | <img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/P3.png"/>  | <img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/P6.png"/>  | <img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/P11.png"/>
 
 
 第十三帧 | 第十六帧 | 第二十帧 | 生成GIF |
 ------------- | ------------- | ------------- | ------------- 
-![P0](img/P12.png)  | ![P1](img/P15.png)  | ![P2](img/P19.png)  | ![P1](img/getgif.gif) 
+<img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/P12.png"/>  | <img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/P15.png"/>  | <img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/P19.png"/> | <img width="150" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/getgif.gif"/>
 
 
 > 2018年最后一天的最后一篇
@@ -79,9 +87,10 @@ ImageIO.write(bf,"png",imagefile);
 ```
 现在就可以利用ImageIO将图片存储到本地了
 
-效果 |
------------- |
-![img1](img/1.jpg) |
+| 效果 |
+| ------------ |
+| <img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/1.jpg"/> |
+
 
 #### 2. "图片中使用画笔"
 
@@ -182,9 +191,10 @@ newPic代表最后生成的gif文件名.
 
 > e.finish();
 
-GIF |
-------------- |
-![1.gif](img/1.gif) |
+| GIF |
+| ------------- |
+| <img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/1.gif"/> |
+
 
 #### 2. "如何分解一个GIF"
 
@@ -236,14 +246,21 @@ for (int i = 0; i < gd.getFrameCount(); i++) {
   ge.addFrame(frame);
 ```
 
-原图 | GIF
------------- | -------------
-![1.jpg](img/gif1.gif) | ![P2](img/gif1-get.gif) 
+原图 | GIF |
+------------ | ------------- |
+<img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif1.gif"/> | <img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif1-get.gif"/> |
+
+原图 | GIF |
+------------ | ------------- |
+<img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif2.gif"/> | <img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif2-get.gif"/> |
 
 原图 | GIF
------------- | -------------
-![1.jpg](img/gif2.gif) | ![P2](img/gif2-get.gif)
+------------ | ------------- |
+<img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif3.gif"/> | <img width="250" src="https://github.com/CasterWx/BitQR-Code/raw/master/img/gif3-get.gif"/> |
 
-原图 | GIF
------------- | -------------
-![1.jpg](img/gif3.gif) | ![P2](img/gif3-get.gif) 
+
+| 赞助 |
+| ------------ | 
+| <img width="250" src="img/pay.png"/> |
+| BitQR-Code是一个的开源项目，使用完全免费。 
+但是随着项目规模的增长，也需要有相应的资金支持才能持续项目的维护与开发。你可以通过下列的方法来赞助 BitQR-Code 的开发。你的名字会出现在 BitQR-Code 的 GitHub 仓库和博客文档中。| 
