@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="assertj-core-1.5.0 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/assertj-core-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-io-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-pool2-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/fastjson-1.2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/fluent-hc-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/gson-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/httpcore-4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/httpmime-4.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/httpmime-4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jedis-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jna-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jna-platform-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/json-lib-2.2.3-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/json-path-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/json-smart-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jsoup-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/QRCode.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/slf4j-log4j12-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-aop-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-aspects-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-beans-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-context-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-context-support-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-core-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-expression-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-instrument-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-instrument-tomcat-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-jdbc-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-jms-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-messaging-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-orm-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-oxm-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-test-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-web-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-webmvc-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-webmvc-portlet-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-websocket-4.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/webmagic-core-0.6.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/webmagic-extension-0.6.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/xsoup-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/lib/spring-test-4.1.2.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
