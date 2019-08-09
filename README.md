@@ -3,6 +3,12 @@ Through image generate QR-Code .
 
 一个优雅的 QR 二维码生成器
 
+
+###### 欢迎关注公众号，开启和我的交流
+
+![weix](https://www.cnblogs.com/images/cnblogs_com/LexMoon/1391533/o_qrcode_for_gh_f3457f4f73a1_258.jpg)
+
+
 --------
 
 ## 样例
