@@ -34,9 +34,9 @@ public class DosInterface {
                     gs.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_ATOP,1.0f));
                     gs.fillRect(j*mini+begin,i*mini+begin,mini,mini );
                 }else{
-//                    gs.setColor(Color.white);
-//                    gs.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_ATOP,0.8f));
-//                    gs.fillRect(j*mini+begin,i*mini+begin,mini,mini );
+                    gs.setColor(Color.white);
+                    gs.setComposite(AlphaComposite.getInstance(AlphaComposite.SRC_ATOP,0.8f));
+                    gs.fillRect(j*mini+begin,i*mini+begin,mini,mini );
                 }
             }
         }
